@@ -58,7 +58,7 @@
     <dependency>
       <groupId>org.jvnet.localizer</groupId>
       <artifactId>localizer</artifactId>
-      <version>1.26</version>
+      <version>1.31</version>
     </dependency>
     <dependency>
       <groupId>org.apache.sshd</groupId>
